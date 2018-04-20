@@ -21,7 +21,7 @@ var AUTH_METHODS = {
   LOGIN: 'LOGIN',
   XOAUTH2: 'XOAUTH2'
 };
-var TIMEOUT = 5000;
+var TIMEOUT = 20000;
 var DEBUG = 0;
 
 var log = function() {
